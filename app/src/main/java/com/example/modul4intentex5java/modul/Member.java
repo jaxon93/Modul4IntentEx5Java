@@ -61,7 +61,7 @@ public class Member implements Parcelable {
 
     @Override
     public String toString() {
-        return "User{" +
+        return "Member{" +
                 "id='" + id + '\'' +
                 ", name=" + name +
                 '}';
